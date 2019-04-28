@@ -1,13 +1,14 @@
+1011NxOy#xxxxAyy#xxAxxx#yyy
+0 1 0 0
+
+1111NxxOy#xxxxOyy#yyOx#yyyOyyyy#xxx
+0 1 1 1 1
+
+10110Axxx#xxAx#xAy#yyAxxxx#xxxxAyyyy#yyyyAxxxxx#xxxxxOyyyyyy#yyyyyyNyyyyyNyyyyyyyAyyy#yyyyyyyyOyyyyyyyyy#yyyyyyyyyy
+= 1
+
 1011Ax#xxOxx#xxxNxxxxOy#yyAyy#yyyNyyyyyAyyyy#yyyyyy
+= 1
 
-1011Axx#xxxO
-
-1011NxxO
-
-1011w0##1##O
-
-1011w1##
-
-1011R0##R1##R0##wyy#yyy
-
-0 1 0 1 0 1 1
+11111NxxAxxxxx#xxxxxAyy#yAxxxx#yyyAxxx#xxxAyyyyy#yyyyOyyyyyy#yyyyyyOyyyyyyy#x
+= 1

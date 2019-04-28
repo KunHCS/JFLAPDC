@@ -1,4 +1,4 @@
-load Main2.jff
+load Main.jff
 
 Symbols
 i = 1
